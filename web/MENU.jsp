@@ -6,13 +6,15 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
+
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>MENU</title>
+        <title>MENU DE OPCIONES</title>
+        
     </head>
     <body>
-
+        Crystopher Tueros: 2do commit
         <table border="3" cellspacing="0" cellpadding="8" bordercolor="dodgerblue" align="center">
             <thead>
                 <tr>

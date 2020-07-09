@@ -12,7 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-                  Patrick Mansilla : 1er commet
+        
+                  Patrick Mansilla : 1er commit
         <form name="f_validar" action="VALIDA.jsp">
             <div align="center" >
             <table border="3" cellspacing="0" cellpadding="8" bordercolor="dodgerblue" align="center">
