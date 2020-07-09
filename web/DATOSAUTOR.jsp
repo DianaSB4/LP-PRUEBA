@@ -27,7 +27,7 @@
          <table border="3" cellspacing="0" cellpadding="8" bordercolor="dodgerblue" align="center"> 
             <thead>
 
-                <th>Nombre</th>
+                <th>Nombre autor</th>
                 <th>Fecha de Nacimiento</th>
                 
             </thead>

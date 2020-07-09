@@ -24,9 +24,10 @@
         %>
     </head>
     <body>
+        Diana Santos: tercer commit
         <table border="3" cellspacing="0" cellpadding="8" bordercolor="dodgerblue" align="center">
             <thead>
-                <th>Nombre</th>
+                <th>Nombre pais</th>
                 <th>ESTADO</th>
                 
             </thead>
